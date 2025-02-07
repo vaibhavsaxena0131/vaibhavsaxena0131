@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vaibhav Saxena</h1>
-<h3 align="center">I specialize in building scalable, high-performance web applications. My expertise spans across 𝐑𝐮𝐛𝐲 𝐨𝐧 𝐑𝐚𝐢𝐥𝐬, 𝐑𝐞𝐚𝐜𝐭.𝐣𝐬, 𝐍𝐨𝐝𝐞.𝐣𝐬, 𝐍𝐞𝐱𝐭.𝐣𝐬, 𝐄𝐥𝐢𝐱𝐢𝐫, 𝐏𝐡𝐨𝐞𝐧𝐢𝐱, 𝐚𝐧𝐝 𝐕𝐮𝐞.𝐣𝐬, ensuring top-quality, end-to-end solutions that are tailored to meet your business goals and enhance user experience.</h3>
+<h3 align="center">I specialize in building scalable, high-performance web applications. My expertise spans across 𝐑𝐞𝐚𝐜𝐭.𝐣𝐬, 𝐍𝐨𝐝𝐞.𝐣𝐬, 𝐍𝐞𝐱𝐭.𝐣𝐬, 𝐓𝐲𝐩𝐞𝐬𝐜𝐫𝐢𝐩𝐭, 𝐀𝐖𝐒, 𝐏𝐨𝐬𝐭𝐠𝐫𝐞𝐒𝐐𝐋, 𝐆𝐫𝐚𝐩𝐡𝐐𝐋, 𝐌𝐔𝐈, ensuring top-quality, end-to-end solutions that are tailored to meet your business goals and enhance user experience.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vaibhavsaxena&label=Profile%20views&color=0e75b6&style=flat" alt="vaibhavsaxena" /> </p>
 
@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **New JavaScript Frameworks**
 
-- 💬 Ask me about **Ruby on Rails, React, Node.js, Next.js, AWS, Heroku, Devops**
+- 💬 Ask me about **React, Node.js, Next.js, AWS, Heroku, Devops**
 
 - 📫 How to reach me **vaibhav0131saxena@gmail.com**
 
